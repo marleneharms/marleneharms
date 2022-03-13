@@ -10,7 +10,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/marlene-harms)
 
 <!--Welcome Message-->
-## 👋 Hi, there
+#### 👋 Hi, there Hi, I'm Marlene R. Harms and I'm a systems engineering student. I love to learn new technologies and to share my knowledge with others. Lately I've been working with my fullstack skills and contributing in open source
 
 <!-- GitHub Stats -->
 
